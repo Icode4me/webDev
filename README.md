@@ -1,2 +1,4 @@
-# webDev
-All my public web development projects - mixed content
+# Web Development (Full Stack)
+HTML,CSS,JS
+PHP, MySQL
+
